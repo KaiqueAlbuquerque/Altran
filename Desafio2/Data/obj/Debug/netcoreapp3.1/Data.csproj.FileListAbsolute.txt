@@ -1,0 +1,11 @@
+C:\Users\Kaique\Desktop\Desafio2\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Kaique\Desktop\Desafio2\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Kaique\Desktop\Desafio2\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\Kaique\Desktop\Desafio2\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Kaique\Desktop\Desafio2\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Kaique\Desktop\Desafio2\Data\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Kaique\Desktop\Desafio2\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Kaique\Desktop\Desafio2\Data\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Kaique\Desktop\Desafio2\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\Kaique\Desktop\Desafio2\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Kaique\Desktop\Desafio2\Data\obj\Debug\netcoreapp3.1\Data.pdb

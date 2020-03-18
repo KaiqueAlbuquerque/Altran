@@ -1,0 +1,24 @@
+C:\Users\Kaique\Desktop\Desafio2\Business\bin\Debug\netcoreapp2.2\Business.deps.json
+C:\Users\Kaique\Desktop\Desafio2\Business\bin\Debug\netcoreapp2.2\Business.dll
+C:\Users\Kaique\Desktop\Desafio2\Business\bin\Debug\netcoreapp2.2\Business.pdb
+C:\Users\Kaique\Desktop\Desafio2\Business\obj\Debug\netcoreapp2.2\Business.csprojAssemblyReference.cache
+C:\Users\Kaique\Desktop\Desafio2\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfoInputs.cache
+C:\Users\Kaique\Desktop\Desafio2\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfo.cs
+C:\Users\Kaique\Desktop\Desafio2\Business\obj\Debug\netcoreapp2.2\Business.dll
+C:\Users\Kaique\Desktop\Desafio2\Business\obj\Debug\netcoreapp2.2\Business.pdb
+C:\Users\kaiqu\Desktop\Desafio-Altran\Desafio2\Business\bin\Debug\netcoreapp2.2\Business.deps.json
+C:\Users\kaiqu\Desktop\Desafio-Altran\Desafio2\Business\bin\Debug\netcoreapp2.2\Business.dll
+C:\Users\kaiqu\Desktop\Desafio-Altran\Desafio2\Business\bin\Debug\netcoreapp2.2\Business.pdb
+C:\Users\kaiqu\Desktop\Desafio-Altran\Desafio2\Business\obj\Debug\netcoreapp2.2\Business.csprojAssemblyReference.cache
+C:\Users\kaiqu\Desktop\Desafio-Altran\Desafio2\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfoInputs.cache
+C:\Users\kaiqu\Desktop\Desafio-Altran\Desafio2\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfo.cs
+C:\Users\kaiqu\Desktop\Desafio-Altran\Desafio2\Business\obj\Debug\netcoreapp2.2\Business.dll
+C:\Users\kaiqu\Desktop\Desafio-Altran\Desafio2\Business\obj\Debug\netcoreapp2.2\Business.pdb
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio2\Business\bin\Debug\netcoreapp2.2\Business.deps.json
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio2\Business\bin\Debug\netcoreapp2.2\Business.dll
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio2\Business\bin\Debug\netcoreapp2.2\Business.pdb
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio2\Business\obj\Debug\netcoreapp2.2\Business.csprojAssemblyReference.cache
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio2\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfoInputs.cache
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio2\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfo.cs
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio2\Business\obj\Debug\netcoreapp2.2\Business.dll
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio2\Business\obj\Debug\netcoreapp2.2\Business.pdb

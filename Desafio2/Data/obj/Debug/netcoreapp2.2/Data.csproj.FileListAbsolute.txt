@@ -1,0 +1,33 @@
+C:\Users\Kaique\Desktop\Desafio2\Data\bin\Debug\netcoreapp2.2\Data.deps.json
+C:\Users\Kaique\Desktop\Desafio2\Data\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\Kaique\Desktop\Desafio2\Data\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Users\Kaique\Desktop\Desafio2\Data\bin\Debug\netcoreapp2.2\Business.dll
+C:\Users\Kaique\Desktop\Desafio2\Data\bin\Debug\netcoreapp2.2\Business.pdb
+C:\Users\Kaique\Desktop\Desafio2\Data\obj\Debug\netcoreapp2.2\Data.csprojAssemblyReference.cache
+C:\Users\Kaique\Desktop\Desafio2\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+C:\Users\Kaique\Desktop\Desafio2\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfo.cs
+C:\Users\Kaique\Desktop\Desafio2\Data\obj\Debug\netcoreapp2.2\Data.csproj.CopyComplete
+C:\Users\Kaique\Desktop\Desafio2\Data\obj\Debug\netcoreapp2.2\Data.dll
+C:\Users\Kaique\Desktop\Desafio2\Data\obj\Debug\netcoreapp2.2\Data.pdb
+C:\Users\kaiqu\Desktop\Desafio-Altran\Desafio2\Data\bin\Debug\netcoreapp2.2\Data.deps.json
+C:\Users\kaiqu\Desktop\Desafio-Altran\Desafio2\Data\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\kaiqu\Desktop\Desafio-Altran\Desafio2\Data\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Users\kaiqu\Desktop\Desafio-Altran\Desafio2\Data\bin\Debug\netcoreapp2.2\Business.dll
+C:\Users\kaiqu\Desktop\Desafio-Altran\Desafio2\Data\bin\Debug\netcoreapp2.2\Business.pdb
+C:\Users\kaiqu\Desktop\Desafio-Altran\Desafio2\Data\obj\Debug\netcoreapp2.2\Data.csprojAssemblyReference.cache
+C:\Users\kaiqu\Desktop\Desafio-Altran\Desafio2\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+C:\Users\kaiqu\Desktop\Desafio-Altran\Desafio2\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfo.cs
+C:\Users\kaiqu\Desktop\Desafio-Altran\Desafio2\Data\obj\Debug\netcoreapp2.2\Data.csproj.CopyComplete
+C:\Users\kaiqu\Desktop\Desafio-Altran\Desafio2\Data\obj\Debug\netcoreapp2.2\Data.dll
+C:\Users\kaiqu\Desktop\Desafio-Altran\Desafio2\Data\obj\Debug\netcoreapp2.2\Data.pdb
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio2\Data\bin\Debug\netcoreapp2.2\Data.deps.json
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio2\Data\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio2\Data\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio2\Data\bin\Debug\netcoreapp2.2\Business.dll
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio2\Data\bin\Debug\netcoreapp2.2\Business.pdb
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio2\Data\obj\Debug\netcoreapp2.2\Data.csprojAssemblyReference.cache
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio2\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio2\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfo.cs
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio2\Data\obj\Debug\netcoreapp2.2\Data.csproj.CopyComplete
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio2\Data\obj\Debug\netcoreapp2.2\Data.dll
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio2\Data\obj\Debug\netcoreapp2.2\Data.pdb

@@ -1,0 +1,22 @@
+C:\Users\Kaique\Desktop\Desafio1\WeirdNumber\bin\Debug\netcoreapp3.1\WeirdNumber.exe
+C:\Users\Kaique\Desktop\Desafio1\WeirdNumber\bin\Debug\netcoreapp3.1\WeirdNumber.deps.json
+C:\Users\Kaique\Desktop\Desafio1\WeirdNumber\bin\Debug\netcoreapp3.1\WeirdNumber.runtimeconfig.json
+C:\Users\Kaique\Desktop\Desafio1\WeirdNumber\bin\Debug\netcoreapp3.1\WeirdNumber.runtimeconfig.dev.json
+C:\Users\Kaique\Desktop\Desafio1\WeirdNumber\bin\Debug\netcoreapp3.1\WeirdNumber.dll
+C:\Users\Kaique\Desktop\Desafio1\WeirdNumber\bin\Debug\netcoreapp3.1\WeirdNumber.pdb
+C:\Users\Kaique\Desktop\Desafio1\WeirdNumber\obj\Debug\netcoreapp3.1\WeirdNumber.csprojAssemblyReference.cache
+C:\Users\Kaique\Desktop\Desafio1\WeirdNumber\obj\Debug\netcoreapp3.1\WeirdNumber.AssemblyInfoInputs.cache
+C:\Users\Kaique\Desktop\Desafio1\WeirdNumber\obj\Debug\netcoreapp3.1\WeirdNumber.AssemblyInfo.cs
+C:\Users\Kaique\Desktop\Desafio1\WeirdNumber\obj\Debug\netcoreapp3.1\WeirdNumber.dll
+C:\Users\Kaique\Desktop\Desafio1\WeirdNumber\obj\Debug\netcoreapp3.1\WeirdNumber.pdb
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio1\WeirdNumber\bin\Debug\netcoreapp3.1\WeirdNumber.exe
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio1\WeirdNumber\bin\Debug\netcoreapp3.1\WeirdNumber.deps.json
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio1\WeirdNumber\bin\Debug\netcoreapp3.1\WeirdNumber.runtimeconfig.json
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio1\WeirdNumber\bin\Debug\netcoreapp3.1\WeirdNumber.runtimeconfig.dev.json
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio1\WeirdNumber\bin\Debug\netcoreapp3.1\WeirdNumber.dll
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio1\WeirdNumber\bin\Debug\netcoreapp3.1\WeirdNumber.pdb
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio1\WeirdNumber\obj\Debug\netcoreapp3.1\WeirdNumber.csprojAssemblyReference.cache
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio1\WeirdNumber\obj\Debug\netcoreapp3.1\WeirdNumber.AssemblyInfoInputs.cache
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio1\WeirdNumber\obj\Debug\netcoreapp3.1\WeirdNumber.AssemblyInfo.cs
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio1\WeirdNumber\obj\Debug\netcoreapp3.1\WeirdNumber.dll
+C:\Users\kaiqu\Desktop\Projetos e Cursos\Altran\Desafio1\WeirdNumber\obj\Debug\netcoreapp3.1\WeirdNumber.pdb
